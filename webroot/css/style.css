@@ -1,0 +1,19 @@
+
+.login-row-form {
+    justify-content: center;
+    margin-top: 8em;
+}
+
+.login-col-form {
+    width: 39%;
+}
+
+.form-control {
+    width: 66%;
+}
+
+.login-form {
+    border-radius: 10px;
+    background-color: aquamarine;
+    padding: 2em;
+}
